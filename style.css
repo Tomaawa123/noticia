@@ -7,7 +7,7 @@ header {
     margin: 8px;
     display: flex;
     min-height: 70px;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 10px;
 }
