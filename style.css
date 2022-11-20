@@ -28,7 +28,10 @@ nav a:hover {
 
 @media (max-width:700px) {
     header {
+        display: flex;
         flex-direction: column;
         align-content: flex-end;
+        justify-content: space-around;
+        align-items: center;
     }
 }
