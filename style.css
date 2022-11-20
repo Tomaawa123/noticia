@@ -4,6 +4,7 @@
 }
 
 header {
+    margin: 8px;
     display: flex;
     min-height: 70px;
     justify-content: space-between;
@@ -28,6 +29,6 @@ nav a:hover {
 @media (max-width:700px) {
     header {
         flex-direction: column;
-        align-content: space-beetwen;
+        align-content: flex-end;
     }
 }
